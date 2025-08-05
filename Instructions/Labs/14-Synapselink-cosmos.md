@@ -1,7 +1,5 @@
 ---
 lab:
-    title: 'Use Azure Synapse Link for Azure Cosmos DB'
-    ilt-use: 'Lab'
 ---
 
 # Use Azure Synapse Link for Azure Cosmos DB
