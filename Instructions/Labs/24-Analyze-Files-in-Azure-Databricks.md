@@ -1,7 +1,5 @@
 ---
 lab:
-    title: 'Use Spark in Azure Databricks'
-    ilt-use: 'Lab'
 ---
 
 # Use Spark in Azure Databricks

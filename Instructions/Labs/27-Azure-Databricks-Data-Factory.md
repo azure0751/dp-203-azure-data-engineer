@@ -1,7 +1,5 @@
 ---
 lab:
-    title: 'Automate an Azure Databricks Notebook with Azure Data Factory'
-    ilt-use: 'Suggested demo'
 ---
 
 # Automate an Azure Databricks Notebook with Azure Data Factory
