@@ -1,7 +1,5 @@
 ---
 lab:
-    title: 'Analyze data in a data lake with Spark'
-    ilt-use: 'Suggested demo'
 ---
 # Analyze data in a data lake with Spark
 

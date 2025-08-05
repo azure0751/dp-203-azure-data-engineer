@@ -1,7 +1,5 @@
 ---
 lab:
-    title: 'Transform data using a serverless SQL pool'
-    ilt-use: 'Lab'
 ---
 
 # Transform files using a serverless SQL pool

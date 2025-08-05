@@ -1,7 +1,5 @@
 ---
 lab:
-    title: 'Explore a relational data warehouse'
-    ilt-use: 'Suggested demo'
 ---
 
 # Explore a relational data warehouse

@@ -1,7 +1,5 @@
 ---
 lab:
-    title: 'Analyze data in a lake database'
-    ilt-use: 'Suggested demo'
 ---
 
 # Analyze data in a lake database
